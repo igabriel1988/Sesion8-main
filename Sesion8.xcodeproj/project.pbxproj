@@ -133,7 +133,6 @@
 			);
 			mainGroup = 3D75649127F89DD80063F84E;
 			packageReferences = (
-				10B40A4B2944585600BD5CA0 /* XCRemoteSwiftPackageReference "encrypted-core-data" */,
 			);
 			productRefGroup = 3D75649B27F89DD80063F84E /* Products */;
 			projectDirPath = "";
@@ -393,17 +392,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		10B40A4B2944585600BD5CA0 /* XCRemoteSwiftPackageReference "encrypted-core-data" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/project-imas/encrypted-core-data.git";
-			requirement = {
-				branch = master;
-				kind = branch;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCVersionGroup section */
 		3D7564A627F89DD80063F84E /* Sesion8.xcdatamodeld */ = {
